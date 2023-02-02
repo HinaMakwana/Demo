@@ -1,2 +1,2 @@
 # Demo
-Demo for study GitHub.
+Demo for study GitHub!
